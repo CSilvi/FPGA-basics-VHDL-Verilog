@@ -2,6 +2,11 @@
 
 ---
 
+/src → Código fuente (VHDL/Verilog)
+/tb → Testbenches
+/docs → Documentación y apuntes
+/examples → Casos de uso y proyectos simples
+
 ## ⚙️ Componentes básicos incluidos
 
 ### 🔹 Lógica combinacional
